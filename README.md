@@ -5,20 +5,9 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 ---
 
 ## 🌟 About Me
-- 🎓 **Background**: A tech enthusiast with experience in software development, data analysis, and system design.
 - 💻 **Programming Languages**: Proficient in C++ and Python. Exploring JavaScript.
 - 🌐 **Interests**: Open-source contributions, web development, and artificial intelligence.
 - 🌱 **Currently Learning**: Computational Vision, Big Data Technology, Operating Systems, and SQL.
-- 🎯 **Goal**: To collaborate on meaningful projects and contribute to the developer community.
-
----
-
-## 🛠️ Skills
-- **Frontend Development**: React, HTML, CSS, TailwindCSS
-- **Backend Development**: 
-- **Database Management**: PostgreSQL, MongoDB, MySQL
-- **DevOps**:
-- **Tools**: Git, VS Code, Figma
 
 ---
 
