@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 
 ## 🌍 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/fabiolaliwu)
-- [Instagram] (https://www.instagram.com/fabiola_lw/)
+- [Instagram](https://www.instagram.com/fabiola_lw/)
 - fabiliwu@gmail.com
 
 ---
