@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 ## 🌟 About Me
 - 💻 **Programming Languages**: Proficient in C++ and Python. Exploring JavaScript.
 - 🌐 **Interests**: Open-source contributions, web development, and artificial intelligence.
-- 🌱 **Currently Learning**: Computational Vision, Big Data Technology, Operating Systems, and SQL.
+- 🌱 **Currently Learning**: Computational Vision, Big Data Technology, Operating Systems, Artificial Intelligence, Data Base Management, and SQL.
 
 ---
 
