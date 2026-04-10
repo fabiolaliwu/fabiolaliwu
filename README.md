@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 ---
 
 ## 🌍 Let's Connect!
+- [Portfolio](https://studybuddy-uqal.onrender.com)
 - [LinkedIn](https://www.linkedin.com/in/fabiolaliwu)
 - [Instagram](https://www.instagram.com/fabiola_lw/)
 - fabiliwu@hotmail.com
